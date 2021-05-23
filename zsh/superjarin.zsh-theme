@@ -3,7 +3,7 @@
 
 # Grab the current filepath, use shortcuts: ~/Desktop
 # Append the current git branch, if in a git repository
-JARIN_CURRENT_LOCA_="%{$fg_bold[cyan]%}%~\$(git_prompt_info)\$(hg_prompt_info)%{$reset_color%}"
+JARIN_CURRENT_LOCA_="%{$fg_bold[blue]%}%~\$(git_prompt_info)\$(hg_prompt_info)%{$reset_color%}"
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[white]%} <%{$fg[white]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$fg[white]%}"
