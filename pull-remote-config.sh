@@ -10,7 +10,7 @@ cp -r ./bspwm ~/.config
 cp -r ./sxhkd ~/.config
 cp -r ./polybar ~/.config
 
-if [-d "~/.oh-my-zsh/themes"]
+if [ -d "~/.oh-my-zsh/themes" ]
 then
   cp -r ./zsh/* ~/.oh-my-zsh/themes
 else
