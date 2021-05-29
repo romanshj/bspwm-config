@@ -173,7 +173,7 @@ Print
 
 # Shortcuts
 super + w 
-  brave
+  brave &
 
 super + z 
   thunar  
