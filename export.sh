@@ -12,6 +12,6 @@ cp ~/.cshrc ./tcsh
 
 
 # Git
-git add .
-git commit -m 'updated'
-git push origin master
+# git add .
+# git commit -m 'updated'
+# git push origin master
